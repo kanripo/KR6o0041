@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 集大乘相論
+#+DATE: 2015-08-30 20:59:38.789669
+#+PROPERTY: JUAN 0
