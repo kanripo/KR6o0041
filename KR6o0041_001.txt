@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:39.672998
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 集大乘相論
 #+PROPERTY: CBETA_ID T32n1637
 #+PROPERTY: ID KR6o0041
