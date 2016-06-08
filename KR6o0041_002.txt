@@ -1,22 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:38.569228
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 集大乘相論
 #+PROPERTY: CBETA_ID T32n1637
 #+PROPERTY: ID KR6o0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1637
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0041_T_002-0147b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 集大乘相論卷下¶
+集大乘相論卷下¶
 ¶
 覺吉祥智菩薩造¶
 西天譯經三藏傳法大師¶
-賜紫沙門臣施護奉　詔譯¶
+賜紫〔沙門〕－【宋】【元】【宮】沙門臣沙門臣施護奉　詔譯¶
 
 復次所言聖諦者。即四聖諦。謂苦集滅道。此¶
 中苦聖諦者。謂蘊等顛倒相背聖法為性。集¶
@@ -225,7 +224,7 @@
 如實了知現前平等。一切相者。即一切法。諸
 <pb:KR6o0041_T_002-0149c>¶
 佛如來為利世間。一切所向隨應方便。得無¶
-妄失法。住堅固相。¶
+忘失法。住堅固相。¶
 
 此中應知。三身亦名一切相。法身自性無我¶
 智相。無差別故。報身最勝相。即一切相智所¶
@@ -285,7 +284,7 @@
 　諸相應門顯諸性
 　隨宜方便而出生¶
 　大慧所作悉圓成
-　我為利樂故稱說
+　我為利樂故稱說」
 #+END_VERSE
-」¶
+¶
 集大乘相論卷下
